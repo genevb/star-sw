@@ -19,7 +19,7 @@
  *      over all primary vertices. The first one that has at least
  *      2 MTD-matched primary tracks is selected.
  *   e) FXT - set the first primary vertex that was reconstructed in z between
- *      +198 and +202 cm along z axis (or -182 and -178 cm for runs > 27032000).
+ *      +198 and +202 cm along z axis (or -182 and -178 cm for runs >= 27032000).
  * Default is NotSet. In this case the program execution will be terminated.
  * Has to be explicitly set.
  *
